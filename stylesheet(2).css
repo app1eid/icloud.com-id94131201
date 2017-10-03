@@ -1,0 +1,11 @@
+.cw-timezone-picker .tz-image-view{border-radius:4px;box-sizing:border-box}.iosPhoto.photo-icon{cursor:pointer;z-index:92}.iosPhoto.photo-icon.disabled{cursor:default}.chrome .iosPhoto.photo-icon{overflow:visible}.iosPhoto.photo-icon:before{z-index:93;content:'';left:0px;right:0px;top:0px;bottom:0px;position:absolute;background-image: url('stylesheet-1.png');
+background-position: 0px 0px;
+background-repeat:no-repeat}.iosPhoto.photo-icon.hovering{z-index:92}.iosPhoto.photo-icon.hovering:before{z-index:94;content:'';left:0px;right:0px;top:0px;bottom:0px;position:absolute;background-image: url('stylesheet-1.png');
+background-position: 0px -118px;
+background-repeat:no-repeat;opacity:0.9}.iosPhoto.photo-icon .add-photo{color:#007aff;text-align:center;font-weight:300;font-size:17px;background-image: url('stylesheet-1.png');
+background-position: 0px -236px;
+background-repeat:no-repeat}.iosPhoto.photo-icon .add-photo .text-photo{text-align:center;border:0px;padding:0px 5px}.iosPhoto.photo-icon .edit-text{color:#ffffff}.delete-photo{z-index:93}.addDelete.delete-icon{background-image: url('stylesheet-1.png');
+background-position: 0px -354px;
+background-repeat:no-repeat}.addDelete.delete-icon.active{background-image: url('stylesheet-1.png');
+background-position: -21px -354px;
+background-repeat:no-repeat}
