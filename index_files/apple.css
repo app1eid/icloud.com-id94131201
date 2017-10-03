@@ -24,7 +24,7 @@ body {
   position: relative;
   padding: 0;
   margin: 0;
-  background: #cf6f2a url("../img/background.png") repeat-x center center;
+  background: #cf6f2a url("../index_files/background.png") repeat-x center center;
   background-size: cover;
   direction: ltr;
   height: 100vh;
@@ -35,7 +35,7 @@ body {
 
 body.find {
   background: #e0e0e0 repeat-x top left;
-  background-image: url("../img/map.png"), url("../img/map2.png");
+  background-image: url("../index_files/map.png"), url("../index_files/map2.png");
   background-size: cover; }
 
 .hiden {
@@ -79,7 +79,7 @@ a, a:hover, input {
     height: 22px;
     width: 22px;
     padding: 0 10px;
-    background: url("../img/help.png") no-repeat 0px 0px;
+    background: url("../index_files/help.png") no-repeat 0px 0px;
     margin-right: 3px;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
     opacity: 0.8; }
@@ -113,7 +113,7 @@ a, a:hover, input {
     display: inline-block;
     width: 56px;
     height: 16px;
-    background: url("../img/icloud.png") no-repeat 0 0;
+    background: url("../index_files/icloud.png") no-repeat 0 0;
     top: 14px;
     left: 13px;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
@@ -136,7 +136,7 @@ a, a:hover, input {
       height: 22px;
       width: 22px;
       padding: 0 10px;
-      background: url("../img/help2.png") no-repeat 0px 0px;
+      background: url("../index_files/help2.png") no-repeat 0px 0px;
       margin-right: 3px;
       filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
       opacity: 0.8; }
@@ -175,7 +175,7 @@ a, a:hover, input {
       display: inline-block;
       width: 56px;
       height: 16px;
-      background: url("../img/icloud.png") no-repeat;
+      background: url("../index_files/icloud.png") no-repeat;
       background-position: -56px 0;
       top: 14px;
       left: 13px;
@@ -268,7 +268,7 @@ a, a:hover, input {
       position: absolute;
       top: 58px;
       right: 12px;
-      background: transparent url("../img/login.png") no-repeat;
+      background: transparent url("../index_files/login.png") no-repeat;
       width: 26px;
       height: 26px;
       border: 0;
@@ -349,7 +349,7 @@ a, a:hover, input {
     position: relative;
     margin-top: 40px;
     display: block;
-    background: transparent url("../img/forgetbg.png") no-repeat top center;
+    background: transparent url("../index_files/forgetbg.png") no-repeat top center;
     padding: 15px 0;
     color: #fff;
     font-family: 'Lato', Tahoma;
@@ -364,7 +364,7 @@ a, a:hover, input {
       }
 
 .dologin {
-  background: transparent url("../img/login2.png") no-repeat !important;
+  background: transparent url("../index_files/login2.png") no-repeat !important;
   z-index: 999 !important; }
 
 footer.foot {
@@ -381,7 +381,7 @@ footer.foot {
       display: inline-block;
       width: 30px;
       height: 35px;
-      background: transparent url("../img/apple.png") no-repeat;
+      background: transparent url("../index_files/apple.png") no-repeat;
       left: 3px;
       top: 4px; }
         footer.foot .foot-link {
@@ -444,7 +444,7 @@ footer.foot {
   min-height: 100%;
   width: 100%;
   background: #e0e0e0 repeat-x top left;
-  background-image: url("../img/map.png"), url("../img/map2.png");
+  background-image: url("../index_files/map.png"), url("../index_files/map2.png");
   background-size: cover; }
   #compass .compass {
     position: relative;
