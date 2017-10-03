@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "SFNSDisplay";
+    src: url("SF-UI-Display-Light.eot");
+    src: url("SF-UI-Display-Light.eot?#iefix") format("embedded-opentype"),
+         url("SF-UI-Display-Light.woff2") format("woff2"),
+         url("SF-UI-Display-Light.woff") format("woff"),
+         url("SF-UI-Display-Light.ttf") format("truetype"),
+         url("SF-UI-Display-Light.svg#SFNSDisplay") format("svg");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SFNSText";
+    src: url("SF-UI-Text-Light.eot");
+    src: url("SF-UI-Text-Light.eot?#iefix") format("embedded-opentype"),
+         url("SF-UI-Text-Light.woff2") format("woff2"),
+         url("SF-UI-Text-Light.woff") format("woff"),
+         url("SF-UI-Text-Light.ttf") format("truetype"),
+         url("SF-UI-Text-Light.svg#SFNSText") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SFNSText";
+    src: url("SF-UI-Text-Medium.eot");
+    src: url("SF-UI-Text-Medium.eot?#iefix") format("embedded-opentype"),
+         url("SF-UI-Text-Medium.woff2") format("woff2"),
+         url("SF-UI-Text-Medium.woff") format("woff"),
+         url("SF-UI-Text-Medium.ttf") format("truetype"),
+         url("SF-UI-Text-Medium.svg#SFNSText") format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SFNSText";
+    src: url("SF-UI-Text-Regular.eot");
+    src: url("SF-UI-Text-Regular.eot?#iefix") format("embedded-opentype"),
+         url("SF-UI-Text-Regular.woff2") format("woff2"),
+         url("SF-UI-Text-Regular.woff") format("woff"),
+         url("SF-UI-Text-Regular.ttf") format("truetype"),
+         url("SF-UI-Text-Regular.svg#SFNSText") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
